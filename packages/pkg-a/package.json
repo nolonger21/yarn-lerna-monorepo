@@ -1,11 +1,15 @@
 {
   "name": "@etherfe/pkg-a",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "nolonger21",
-  "license": "MTI"
+  "license": "MTI",
+  "gitHead": "360778cc11a0be828960d342c38aef069742b49a"
 }
