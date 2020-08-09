@@ -1,0 +1,15 @@
+{
+  "name": "yarn-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn workspace example test"
+  },
+  "author": "nolonger21",
+  "license": "MIT"
+}
