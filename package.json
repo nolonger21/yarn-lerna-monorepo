@@ -8,8 +8,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "yarn workspace example test"
+    "test": "yarn workspace @etherfe/example test"
   },
   "author": "nolonger21",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
