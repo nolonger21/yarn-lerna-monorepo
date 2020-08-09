@@ -7,8 +7,8 @@
     "test": "node index.js"
   },
   "dependencies": {
+    "@etherfe/pkg-a": "^0.1.0",
     "lodash": "^4.17.19",
-    "@etherfe/pkg-a": "0.1.0",
     "ramda": "^0.27.1"
   },
   "author": "nolonger21",
