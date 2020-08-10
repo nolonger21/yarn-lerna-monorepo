@@ -16,11 +16,12 @@
     },
     "version": {
       "message": "chore(release): publish new version",
-      "conventionalCommits": false,
+      "conventionalCommits": true,
       "allowBranch": ["master", "next", "*"]
     }
   },
   "changelog": {
+    "repo": "nolonger21/yarn-monorepo",
     "labels": {
       "PR: New Feature": ":rocket: New Features",
       "PR: Breaking Change": ":boom: Breaking Changes",
