@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.3](https://github.com/nolonger21/yarn-lerna-monorepo/compare/@etherfe/example@0.3.2...@etherfe/example@0.3.3) (2020-08-10)
+
+
+### Bug Fixes
+
+* test lerna changelog pl ([fbdb361](https://github.com/nolonger21/yarn-lerna-monorepo/commit/fbdb3616c7ebed39b8059caa2cc28b717d642d43))
+
+
+
+
+
 ## [0.3.1](https://github.com/nolonger21/yarn-monorepo/compare/@etherfe/example@0.3.0...@etherfe/example@0.3.1) (2020-08-10)
 
 
