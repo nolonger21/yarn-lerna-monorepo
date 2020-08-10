@@ -13,6 +13,7 @@
   "author": "nolonger21",
   "license": "MIT",
   "devDependencies": {
-    "lerna": "^3.22.1"
+    "lerna": "^3.22.1",
+    "lerna-changelog": "^1.0.1"
   }
 }
