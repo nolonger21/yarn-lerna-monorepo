@@ -21,7 +21,7 @@
     }
   },
   "changelog": {
-    "repo": "nolonger21/yarn-monorepo",
+    "repo": "nolonger21/yarn-lerna-monorepo",
     "labels": {
       "PR: New Feature": ":rocket: New Features",
       "PR: Breaking Change": ":boom: Breaking Changes",
