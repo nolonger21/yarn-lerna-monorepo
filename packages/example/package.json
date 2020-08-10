@@ -1,13 +1,13 @@
 {
   "name": "@etherfe/example",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "dependencies": {
-    "@etherfe/pkg-a": "^0.1.4",
+    "@etherfe/pkg-a": "^0.2.0",
     "lodash": "^4.17.19",
     "ramda": "^0.27.1"
   },

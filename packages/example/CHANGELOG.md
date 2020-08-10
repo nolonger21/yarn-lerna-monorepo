@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/nolonger21/yarn-monorepo/compare/@etherfe/example@0.2.1...@etherfe/example@0.3.0) (2020-08-10)
+
+
+### Features
+
+* **parser:** test version change ([c0aa48b](https://github.com/nolonger21/yarn-monorepo/commit/c0aa48bdb89bbdb872c878d4d6816220582a412d))
+
+
+
+
+
 ## [0.2.1](https://github.com/nolonger21/yarn-monorepo/compare/@etherfe/example@0.2.0...@etherfe/example@0.2.1) (2020-08-10)
 
 
