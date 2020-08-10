@@ -1,5 +1,5 @@
 module.exports = {
   test: () => {
-    console.info('pkg-a222');
+    console.info('pkg-a222-333');
   }
 }
