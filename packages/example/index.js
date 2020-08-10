@@ -3,4 +3,4 @@ const merge = require('lodash/merge');
 
 console.info('example', test);
 test();
-console.info('lodash111', merge);
+console.info('lodash222', merge);
