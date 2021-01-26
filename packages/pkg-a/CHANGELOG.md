@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/nolonger21/yarn-lerna-monorepo/compare/@etherfe/pkg-a@0.2.1...@etherfe/pkg-a@0.2.2) (2021-01-26)
+
+
+### Bug Fixes
+
+* abc ([c69b092](https://github.com/nolonger21/yarn-lerna-monorepo/commit/c69b0929dfbadd7e73d0ee1b62275d6e59e7c7ce))
+* test version publish ([a457f89](https://github.com/nolonger21/yarn-lerna-monorepo/commit/a457f890d137c1a92e1e8c5b98060f203ba95c85))
+* version change ([2e7ba46](https://github.com/nolonger21/yarn-lerna-monorepo/commit/2e7ba46b75aa343f77d0207a194c6d5b931d8df1))
+
+
+
+
+
 ## [0.2.1](https://github.com/nolonger21/yarn-lerna-monorepo/compare/@etherfe/pkg-a@0.2.0...@etherfe/pkg-a@0.2.1) (2021-01-25)
 
 
